@@ -1,0 +1,8 @@
+C:\Users\44771\Desktop\ChangeDenominations!\ChangeDenominations!\bin\Debug\ChangeDenominations!.exe.config
+C:\Users\44771\Desktop\ChangeDenominations!\ChangeDenominations!\bin\Debug\ChangeDenominations!.exe
+C:\Users\44771\Desktop\ChangeDenominations!\ChangeDenominations!\bin\Debug\ChangeDenominations!.pdb
+C:\Users\44771\Desktop\ChangeDenominations!\ChangeDenominations!\obj\Debug\ChangeDenominations!.csproj.AssemblyReference.cache
+C:\Users\44771\Desktop\ChangeDenominations!\ChangeDenominations!\obj\Debug\ChangeDenominations!.csproj.SuggestedBindingRedirects.cache
+C:\Users\44771\Desktop\ChangeDenominations!\ChangeDenominations!\obj\Debug\ChangeDenominations!.csproj.CoreCompileInputs.cache
+C:\Users\44771\Desktop\ChangeDenominations!\ChangeDenominations!\obj\Debug\ChangeDenominations!.exe
+C:\Users\44771\Desktop\ChangeDenominations!\ChangeDenominations!\obj\Debug\ChangeDenominations!.pdb
